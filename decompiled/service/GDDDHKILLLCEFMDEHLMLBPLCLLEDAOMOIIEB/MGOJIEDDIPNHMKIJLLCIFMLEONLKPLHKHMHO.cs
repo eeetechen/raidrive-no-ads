@@ -1,0 +1,48 @@
+using System.IO;
+using System.Runtime.CompilerServices;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace GDDDHKILLLCEFMDEHLMLBPLCLLEDAOMOIIEB;
+
+internal class MGOJIEDDIPNHMKIJLLCIFMLEONLKPLHKHMHO : IOAGDJOLHCLEHIAHCHLNBJKMKDBCCHGMAJLG
+{
+	private readonly object IKJDOAIJLHBBPJJOGKLFIKCPIBEAKKPAHFOA;
+
+	private object DDBGMEGOOJGOPJFPIIHBKFLOBEOGBALPKEGC;
+
+	internal new static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public MGOJIEDDIPNHMKIJLLCIFMLEONLKPLHKHMHO(string P_0, string P_1, string P_2, bool P_3)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal override void ICGMMBOHOIOGPODFBKPEGBJMAMJHECKNOPHD(string P_0, bool P_1)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal override void FOJICHCCGKHMLGBOLJHHCOILCHEPMKKJMKMM(Stream P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static MGOJIEDDIPNHMKIJLLCIFMLEONLKPLHKHMHO()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal new static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal new static MGOJIEDDIPNHMKIJLLCIFMLEONLKPLHKHMHO HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

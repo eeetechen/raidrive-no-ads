@@ -1,0 +1,539 @@
+using System;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Threading;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace BDCAHHMLCJHGNDDGLGLPNHCNFDIIONKPCBIF;
+
+internal class AFMBJCDJHCMFACCIHEMCHBEPBMAFIHNDFNAF
+{
+	[ComImport]
+	[Guid("9BA05972-F6A8-11CF-A442-00A0C90A8F39")]
+	internal class MMFEBCNOCGEALBJGMFPMAMOCNNKDIDHFFOAG
+	{
+	}
+
+	internal sealed class LCBCBBJEEIHBNOLMJEKIDJAIDIDNLOIPOIEP : IDisposable
+	{
+		[CompilerGenerated]
+		private static class PHJHDPDGLEHCCKIPBILIEDBEHDFFHHJJJEHL
+		{
+			public static CallSite<Func<CallSite, object, object>> CCALEHIOOMJAGAOHFKAPBFIFGAJBANLEMBPO;
+
+			public static CallSite<Func<CallSite, object, string>> FPDELAPJLKDLCJOAEOKPAMMGPEOBPHJNPAMN;
+
+			[MethodImpl(MethodImplOptions.NoInlining)]
+			static PHJHDPDGLEHCCKIPBILIEDBEHDFFHHJJJEHL()
+			{
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+			}
+		}
+
+		[CompilerGenerated]
+		private static class EMNLJAIBJAHCLADNDDJEBOCIFLHCBDACPGBN
+		{
+			public static CallSite<Func<CallSite, object, object>> CCALEHIOOMJAGAOHFKAPBFIFGAJBANLEMBPO;
+
+			public static CallSite<Func<CallSite, object, string>> FPDELAPJLKDLCJOAEOKPAMMGPEOBPHJNPAMN;
+
+			[MethodImpl(MethodImplOptions.NoInlining)]
+			static EMNLJAIBJAHCLADNDDJEBOCIFLHCBDACPGBN()
+			{
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+			}
+		}
+
+		[CompilerGenerated]
+		private static class EMOPIIODAJMKCCALMBBILJADOCNDDMAHFALH
+		{
+			public static CallSite<Func<CallSite, object, object>> CCALEHIOOMJAGAOHFKAPBFIFGAJBANLEMBPO;
+
+			public static CallSite<Func<CallSite, object, nint>> FPDELAPJLKDLCJOAEOKPAMMGPEOBPHJNPAMN;
+
+			[MethodImpl(MethodImplOptions.NoInlining)]
+			static EMOPIIODAJMKCCALMBBILJADOCNDDMAHFALH()
+			{
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+			}
+		}
+
+		[CompilerGenerated]
+		private static class AJFHDAKECAEJNMJIHAODMOOGKBDGNKGOADOC
+		{
+			public static CallSite<Action<CallSite, object>> CCALEHIOOMJAGAOHFKAPBFIFGAJBANLEMBPO;
+
+			[MethodImpl(MethodImplOptions.NoInlining)]
+			static AJFHDAKECAEJNMJIHAODMOOGKBDGNKGOADOC()
+			{
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+			}
+		}
+
+		[CompilerGenerated]
+		private static class COKHEPKKLHAFLOKGHKAJBJNGMBIHHNMBDCNB
+		{
+			public static CallSite<Action<CallSite, object>> CCALEHIOOMJAGAOHFKAPBFIFGAJBANLEMBPO;
+
+			[MethodImpl(MethodImplOptions.NoInlining)]
+			static COKHEPKKLHAFLOKGHKAJBJNGMBIHHNMBDCNB()
+			{
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+			}
+		}
+
+		[CompilerGenerated]
+		private static class CLMPGADBNFJHLKCEAPDKFHICPKFJFPBEDNPC
+		{
+			public static CallSite<Func<CallSite, object, object>> CCALEHIOOMJAGAOHFKAPBFIFGAJBANLEMBPO;
+
+			public static CallSite<Func<CallSite, object, object>> FPDELAPJLKDLCJOAEOKPAMMGPEOBPHJNPAMN;
+
+			public static CallSite<Func<CallSite, object, string>> GCJDHIGKJAJFMBJEKLJBPBJNPDPIFOGDKDJI;
+
+			public static CallSite<Func<CallSite, object, object>> PPEDFMFAGEHIKBHPHPOEOAGIFIEMJILAJCKL;
+
+			public static CallSite<Func<CallSite, object, object, object>> CJJLOALHAEPNOEFCBJIGIFHLGCFJHHFDAFDC;
+
+			public static CallSite<Func<CallSite, object, bool>> KAEDDIIDEBKBACLFIJEINMFMOKLOICCBDEAB;
+
+			public static CallSite<Func<CallSite, object, object>> FKLBPEEFPFLFAJCLLNOFKBCEPBFMLJEFGHFE;
+
+			public static CallSite<Func<CallSite, int, object, object>> LMKJGMIFCJMHOLEOGGGFPCHCIEKOFMMDFGGH;
+
+			public static CallSite<Func<CallSite, object, bool>> JEAOHLHAANKOOPJLMHLJDINGOKJEJBFBGIHH;
+
+			public static CallSite<Func<CallSite, object, int, object>> BLMGPLMLIAKFIPJNKAAABOABFMNFOBGGFJEE;
+
+			public static CallSite<Func<CallSite, object, object>> PPDPLFKCNDHNBGFOGOOOBLAHMOKGIDKFICIK;
+
+			public static CallSite<Func<CallSite, object, string>> KJHAIKCFNBBKHLPKDNIAHJPFMIOCFGDPLDLJ;
+
+			public static CallSite<Action<CallSite, Type, object>> PCDCLGALPHIICNCPHBFNGADNFHCODEPLOAOM;
+
+			[MethodImpl(MethodImplOptions.NoInlining)]
+			static CLMPGADBNFJHLKCEAPDKFHICPKFJFPBEDNPC()
+			{
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+			}
+		}
+
+		[CompilerGenerated]
+		private static class DGCGJMKMMCANIPLKOEJCDLMKAOMBPLHLHJND
+		{
+			public static CallSite<Func<CallSite, object, object>> CCALEHIOOMJAGAOHFKAPBFIFGAJBANLEMBPO;
+
+			public static CallSite<Func<CallSite, object, object>> FPDELAPJLKDLCJOAEOKPAMMGPEOBPHJNPAMN;
+
+			public static CallSite<Func<CallSite, object, object>> GCJDHIGKJAJFMBJEKLJBPBJNPDPIFOGDKDJI;
+
+			[MethodImpl(MethodImplOptions.NoInlining)]
+			static DGCGJMKMMCANIPLKOEJCDLMKAOMBPLHLHJND()
+			{
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+			}
+		}
+
+		[CompilerGenerated]
+		private static class ILGPBGNFBICFJOPBGAJMLHDEHGCGBJKCEIOA
+		{
+			public static CallSite<Action<CallSite, Type, object>> CCALEHIOOMJAGAOHFKAPBFIFGAJBANLEMBPO;
+
+			public static CallSite<Action<CallSite, Type, object>> FPDELAPJLKDLCJOAEOKPAMMGPEOBPHJNPAMN;
+
+			public static CallSite<Action<CallSite, Type, object>> GCJDHIGKJAJFMBJEKLJBPBJNPDPIFOGDKDJI;
+
+			public static CallSite<Action<CallSite, Type, object>> PPEDFMFAGEHIKBHPHPOEOAGIFIEMJILAJCKL;
+
+			public static CallSite<Action<CallSite, Type, object>> CJJLOALHAEPNOEFCBJIGIFHLGCFJHHFDAFDC;
+
+			public static CallSite<Action<CallSite, Type, object>> KAEDDIIDEBKBACLFIJEINMFMOKLOICCBDEAB;
+
+			[MethodImpl(MethodImplOptions.NoInlining)]
+			static ILGPBGNFBICFJOPBGAJMLHDEHGCGBJKCEIOA()
+			{
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+				GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+			}
+		}
+
+		private bool MBNDLFMEPLIBJKMIDPDEODBPEEKHMIEGPKBN;
+
+		private dynamic DFGPBFANEHKDPHKGHOKBHIBBGDCJDKJONMHJ;
+
+		private dynamic OGALNMGAKNCMOLCPPAFEAHNMDBIBGMKKCNDE;
+
+		private dynamic COILMJEOGONFEEIHLCNNFGIOPHFEJFGHAIIC;
+
+		private dynamic FJJIJDCAOIENMFNJOKOLBMNCKEPDOAKCFJBD;
+
+		private dynamic MAELLJCHGKPHMCAHIKFNALOJNAIAGJGLPNOO;
+
+		[CompilerGenerated]
+		private readonly dynamic JGEDEDOEOCHMFBOKEAJIECOIFKANNJOOOKNB;
+
+		private static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+		public dynamic HLBFBMFCILJOMKKMKDFGNEBCHKOEOMILFJFO
+		{
+			[MethodImpl(MethodImplOptions.NoInlining)]
+			[CompilerGenerated]
+			get
+			{
+				return null;
+			}
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public LCBCBBJEEIHBNOLMJEKIDJAIDIDNLOIPOIEP(dynamic window)
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[SpecialName]
+		public bool BLNFHCKOJMKEKIPOMBJOPJDINJGBENIIGCGB()
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[SpecialName]
+		public string OPPIGDPKMECBAIHBDMDMOCEDGCBMBJLAFEGG()
+		{
+			return null;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[SpecialName]
+		public nint LBFMCNMJDEIFHNOMPIEFJDEGCAAIINMCPFJI()
+		{
+			return (nint)(object)null;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public void Refresh()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public void Quit()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public bool LHDDBHMLECGDDNICJGEGGELDLNEFFDCOMKLN()
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public bool LACDLFKDFEAOGHAJMJANLNLKPHKFGNPFHKNH(string P_0)
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		private void GCJADBDNJJFHKGBDOFIIJFMFDDEDNLCFEEPF()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public void Dispose()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		static LCBCBBJEEIHBNOLMJEKIDJAIDIDNLOIPOIEP()
+		{
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static LCBCBBJEEIHBNOLMJEKIDJAIDIDNLOIPOIEP HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+		{
+			return null;
+		}
+	}
+
+	[CompilerGenerated]
+	private sealed class HIPENFPLOBGOICHFHOJLPBKLEPFLEHGNEOND
+	{
+		public Action PDOKINKCMPDKDCJONIJFKOLPKDJLIEKCDGMD;
+
+		public Exception IIJIAFOJGBMFEHJIPDHEMMJGLCDNBNKPKFLH;
+
+		public ManualResetEventSlim KOMFMKPNCEJJLGKOEJMMGNFJFDFMNJBAPLKP;
+
+		private static HIPENFPLOBGOICHFHOJLPBKLEPFLEHGNEOND CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public HIPENFPLOBGOICHFHOJLPBKLEPFLEHGNEOND()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal void IOKCIJFJGGMKMIBAECFGAFJBIFDKDNCAAMGP()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		static HIPENFPLOBGOICHFHOJLPBKLEPFLEHGNEOND()
+		{
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static HIPENFPLOBGOICHFHOJLPBKLEPFLEHGNEOND HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+		{
+			return null;
+		}
+	}
+
+	[CompilerGenerated]
+	private sealed class LJGIIGICNCJADPEHLJLHCKJPCIMFFAKKEADF<EMMOKJIALCDEJMEOGHNAEBCAAAKCAIBHHENP>
+	{
+		public EMMOKJIALCDEJMEOGHNAEBCAAAKCAIBHHENP PPABCGHKNNDABDBBIGEEECOFOFICPOBHKLIG;
+
+		public Func<EMMOKJIALCDEJMEOGHNAEBCAAAKCAIBHHENP> NKPFDHKOLAGHLIGJGHHGCHEGDKOHCHEKCBJP;
+
+		public Exception IIJIAFOJGBMFEHJIPDHEMMJGLCDNBNKPKFLH;
+
+		public ManualResetEventSlim KOMFMKPNCEJJLGKOEJMMGNFJFDFMNJBAPLKP;
+
+		private static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public LJGIIGICNCJADPEHLJLHCKJPCIMFFAKKEADF()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal void NLPGIKLJMJFJHOMAOELGEFLPHHHENLKKLFGN()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		static LJGIIGICNCJADPEHLJLHCKJPCIMFFAKKEADF()
+		{
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static object HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+		{
+			return null;
+		}
+	}
+
+	[CompilerGenerated]
+	private sealed class AJHFLJHENAHCPJFEGPOCMGHFNLBCFLNMEPJA
+	{
+		public Action<MMFEBCNOCGEALBJGMFPMAMOCNNKDIDHFFOAG> PDOKINKCMPDKDCJONIJFKOLPKDJLIEKCDGMD;
+
+		private static AJHFLJHENAHCPJFEGPOCMGHFNLBCFLNMEPJA CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public AJHFLJHENAHCPJFEGPOCMGHFNLBCFLNMEPJA()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal bool HOMPMDDLDILDHMGCFLOCEKBPDLKAKEKEFGMG(MMFEBCNOCGEALBJGMFPMAMOCNNKDIDHFFOAG shellWindows)
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		static AJHFLJHENAHCPJFEGPOCMGHFNLBCFLNMEPJA()
+		{
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static AJHFLJHENAHCPJFEGPOCMGHFNLBCFLNMEPJA HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+		{
+			return null;
+		}
+	}
+
+	[CompilerGenerated]
+	private sealed class EMFLGKKEEIEBKENLEOGFNADKNNAHECAELKCJ<FHOFCHPDFOOMIIIKNCBKODEIDBLFIJMBIDHA>
+	{
+		public Func<MMFEBCNOCGEALBJGMFPMAMOCNNKDIDHFFOAG, FHOFCHPDFOOMIIIKNCBKODEIDBLFIJMBIDHA> PDOKINKCMPDKDCJONIJFKOLPKDJLIEKCDGMD;
+
+		internal static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public EMFLGKKEEIEBKENLEOGFNADKNNAHECAELKCJ()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal FHOFCHPDFOOMIIIKNCBKODEIDBLFIJMBIDHA POLDIKEBPPHBMBDPLNGEPDNMGECFPJDKLAJB()
+		{
+			return (FHOFCHPDFOOMIIIKNCBKODEIDBLFIJMBIDHA)null;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		static EMFLGKKEEIEBKENLEOGFNADKNNAHECAELKCJ()
+		{
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static object HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+		{
+			return null;
+		}
+	}
+
+	[CompilerGenerated]
+	private static class GGNJADMCKHMOHGNOHBGHGAGOGFLGBCBJCAID
+	{
+		public static CallSite<Func<CallSite, object, object>> CCALEHIOOMJAGAOHFKAPBFIFGAJBANLEMBPO;
+
+		public static CallSite<Func<CallSite, object, int>> FPDELAPJLKDLCJOAEOKPAMMGPEOBPHJNPAMN;
+
+		public static CallSite<Func<CallSite, Type, object, int, Func<LCBCBBJEEIHBNOLMJEKIDJAIDIDNLOIPOIEP, bool>, object>> GCJDHIGKJAJFMBJEKLJBPBJNPDPIFOGDKDJI;
+
+		public static CallSite<Func<CallSite, object, bool>> PPEDFMFAGEHIKBHPHPOEOAGIFIEMJILAJCKL;
+
+		public static CallSite<Func<CallSite, Type, object, int, Func<LCBCBBJEEIHBNOLMJEKIDJAIDIDNLOIPOIEP, bool>, object>> CJJLOALHAEPNOEFCBJIGIFHLGCFJHHFDAFDC;
+
+		public static CallSite<Func<CallSite, object, bool>> KAEDDIIDEBKBACLFIJEINMFMOKLOICCBDEAB;
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		static GGNJADMCKHMOHGNOHBGHGAGOGFLGBCBJCAID()
+		{
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+		}
+	}
+
+	[CompilerGenerated]
+	private static class FOKAKGNCEANJANOBNPJDHOBAHAOPAEABBOJD
+	{
+		public static CallSite<Func<CallSite, object, int, object>> CCALEHIOOMJAGAOHFKAPBFIFGAJBANLEMBPO;
+
+		public static CallSite<Func<CallSite, object, object, object>> FPDELAPJLKDLCJOAEOKPAMMGPEOBPHJNPAMN;
+
+		public static CallSite<Func<CallSite, object, bool>> GCJDHIGKJAJFMBJEKLJBPBJNPDPIFOGDKDJI;
+
+		public static CallSite<Func<CallSite, Type, object, LCBCBBJEEIHBNOLMJEKIDJAIDIDNLOIPOIEP>> PPEDFMFAGEHIKBHPHPOEOAGIFIEMJILAJCKL;
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		static FOKAKGNCEANJANOBNPJDHOBAHAOPAEABBOJD()
+		{
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+		}
+	}
+
+	internal static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool BBDONLGOMPGEPBANMGBNJFEKEHALNLALNJKH(object P_0, int P_1)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool LMCKMNJGMGJBGBDACCAKILOIFCLBJNJNFFLE<EMMOKJIALCDEJMEOGHNAEBCAAAKCAIBHHENP>(Func<EMMOKJIALCDEJMEOGHNAEBCAAAKCAIBHHENP> P_0, int P_1, out EMMOKJIALCDEJMEOGHNAEBCAAAKCAIBHHENP P_2)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static void ReleaseComObject(object comObject)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static void KKJHAFMJNPDEIPJLMAFCLIFDNJAGLOOIMMIL(int P_0, Action<MMFEBCNOCGEALBJGMFPMAMOCNNKDIDHFFOAG> P_1)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool KLGIBGJCCGIIPNEAOKDJMHHCNOENLKGBDHKE<FHOFCHPDFOOMIIIKNCBKODEIDBLFIJMBIDHA>(int P_0, Func<MMFEBCNOCGEALBJGMFPMAMOCNNKDIDHFFOAG, FHOFCHPDFOOMIIIKNCBKODEIDBLFIJMBIDHA> P_1, out FHOFCHPDFOOMIIIKNCBKODEIDBLFIJMBIDHA P_2)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool EOHDILIJOOLKMEKGCCLMKKHKJGJPGCHGKGID(object P_0, Func<LCBCBBJEEIHBNOLMJEKIDJAIDIDNLOIPOIEP, bool> P_1, bool P_2 = false)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool VisitExplorerWindow(object shellWindowsObject, int index, Func<LCBCBBJEEIHBNOLMJEKIDJAIDIDNLOIPOIEP, bool> visitor)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public AFMBJCDJHCMFACCIHEMCHBEPBMAFIHNDFNAF()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static AFMBJCDJHCMFACCIHEMCHBEPBMAFIHNDFNAF()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static AFMBJCDJHCMFACCIHEMCHBEPBMAFIHNDFNAF HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

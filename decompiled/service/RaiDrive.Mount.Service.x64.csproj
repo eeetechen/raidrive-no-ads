@@ -1,0 +1,98 @@
+<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+  <PropertyGroup>
+    <AssemblyName>RaiDrive.Mount.Service.x64</AssemblyName>
+    <GenerateAssemblyInfo>False</GenerateAssemblyInfo>
+    <OutputType>WinExe</OutputType>
+    <UseWindowsForms>True</UseWindowsForms>
+    <TargetFramework>netcoreapp1.0</TargetFramework>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup>
+    <LangVersion>12.0</LangVersion>
+    <AllowUnsafeBlocks>True</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>app.ico</ApplicationIcon>
+    <ApplicationManifest>app.manifest</ApplicationManifest>
+    <RootNamespace />
+  </PropertyGroup>
+  <ItemGroup>
+    <None Remove="fhrvfvH0dyhXTKwXiQ.afY6FkItAtRjXRgANv" />
+    <None Remove="sYqmgnJ52aYW4qHJlO.ZYGNPlKImprbxDV92X" />
+    <None Remove="TSKgKQFwTuhqqaPIYD.Zf92a5GFX3Og3Pfw0v" />
+    <None Remove="Vew4E0DXeHQtZN1emE.hGXng7ENJf4eHyX3ii" />
+    <None Remove="ao9VKFBCFQMl7Q5LV7.4Isqv5CPVGI72CFI8E" />
+    <EmbeddedResource Include="fhrvfvH0dyhXTKwXiQ.afY6FkItAtRjXRgANv" LogicalName="fhrvfvH0dyhXTKwXiQ.afY6FkItAtRjXRgANv" />
+    <EmbeddedResource Include="sYqmgnJ52aYW4qHJlO.ZYGNPlKImprbxDV92X" LogicalName="sYqmgnJ52aYW4qHJlO.ZYGNPlKImprbxDV92X" />
+    <EmbeddedResource Include="TSKgKQFwTuhqqaPIYD.Zf92a5GFX3Og3Pfw0v" LogicalName="TSKgKQFwTuhqqaPIYD.Zf92a5GFX3Og3Pfw0v" />
+    <EmbeddedResource Include="Vew4E0DXeHQtZN1emE.hGXng7ENJf4eHyX3ii" LogicalName="Vew4E0DXeHQtZN1emE.hGXng7ENJf4eHyX3ii" />
+    <EmbeddedResource Include="ao9VKFBCFQMl7Q5LV7.4Isqv5CPVGI72CFI8E" LogicalName="ao9VKFBCFQMl7Q5LV7.4Isqv5CPVGI72CFI8E" />
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>work/bundle_svc/Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="AWSSDK.Core">
+      <HintPath>work/bundle_svc/AWSSDK.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="System.ServiceProcess.ServiceController">
+      <HintPath>work/bundle_svc/System.ServiceProcess.ServiceController.dll</HintPath>
+    </Reference>
+    <Reference Include="Rebex.Sftp">
+      <HintPath>work/bundle_svc/Rebex.Sftp.dll</HintPath>
+    </Reference>
+    <Reference Include="Rebex.Ftp">
+      <HintPath>work/bundle_svc/Rebex.Ftp.dll</HintPath>
+    </Reference>
+    <Reference Include="AWSSDK.S3">
+      <HintPath>work/bundle_svc/AWSSDK.S3.dll</HintPath>
+    </Reference>
+    <Reference Include="Rebex.Networking">
+      <HintPath>work/bundle_svc/Rebex.Networking.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Security.Cryptography.ProtectedData" />
+    <Reference Include="Microsoft.Extensions.Logging.Abstractions">
+      <HintPath>work/bundle_svc/Microsoft.Extensions.Logging.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="MessagePack">
+      <HintPath>work/bundle_svc/MessagePack.dll</HintPath>
+    </Reference>
+    <Reference Include="Rebex.WebSocket">
+      <HintPath>work/bundle_svc/Rebex.WebSocket.dll</HintPath>
+    </Reference>
+    <Reference Include="Rebex.Common">
+      <HintPath>work/bundle_svc/Rebex.Common.dll</HintPath>
+    </Reference>
+    <Reference Include="Rebex.Http">
+      <HintPath>work/bundle_svc/Rebex.Http.dll</HintPath>
+    </Reference>
+    <Reference Include="Rebex.SshShell">
+      <HintPath>work/bundle_svc/Rebex.SshShell.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Windows.Forms.Primitives" />
+    <Reference Include="System.Diagnostics.EventLog">
+      <HintPath>../../../../../.dotnet/shared/Microsoft.AspNetCore.App/10.0.14/System.Diagnostics.EventLog.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Hosting">
+      <HintPath>work/bundle_svc/Microsoft.Extensions.Hosting.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.DependencyInjection.Abstractions">
+      <HintPath>work/bundle_svc/Microsoft.Extensions.DependencyInjection.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Extensions.Hosting.Abstractions">
+      <HintPath>work/bundle_svc/Microsoft.Extensions.Hosting.Abstractions.dll</HintPath>
+    </Reference>
+    <Reference Include="SQLitePCLRaw.batteries_v2">
+      <HintPath>work/bundle_svc/SQLitePCLRaw.batteries_v2.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.Data.Sqlite">
+      <HintPath>work/bundle_svc/Microsoft.Data.Sqlite.dll</HintPath>
+    </Reference>
+    <Reference Include="AWSSDK.CloudWatch">
+      <HintPath>work/bundle_svc/AWSSDK.CloudWatch.dll</HintPath>
+    </Reference>
+    <Reference Include="System.IO.Hashing">
+      <HintPath>work/bundle_svc/System.IO.Hashing.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>

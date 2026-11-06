@@ -1,0 +1,66 @@
+using System.Runtime.CompilerServices;
+using BADLBEDDNBLEAKBPHKHICOCAECBJMNNMBBDI;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+using Newtonsoft.Json;
+
+namespace BDCAHHMLCJHGNDDGLGLPNHCNFDIIONKPCBIF;
+
+internal class NFCHENOBPJJLAJHKNLPGJNMBOEIEPOIKIOOL
+{
+	[JsonProperty("GrandType")]
+	public PMLFMNALFCCGJOAKJDAFJPMHLKBOCNKLBNDM DBPFPCMJACMKDHJCEPACOBKJANDLCOEHLAIE;
+
+	[JsonProperty("OnlyCurrentProcess")]
+	public bool IMHHCCMHOBJDBPMNLEPPPKBCHMDMJAIFGGGA;
+
+	[CompilerGenerated]
+	private bool OBHEADHLAKCBCOMLLEGGDONOKPFBGGFGJDML;
+
+	[JsonProperty("Read")]
+	public bool FONFIMDFOFMCAMMMKLOGCGEKGOEGALGKGNIB;
+
+	[JsonProperty("Write")]
+	public bool DKHFGLPAEHPAGJCNMIABGIEGLIBDKGBEEEEP;
+
+	private static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[JsonProperty("InheritProcess")]
+	public bool JIPFLEIGKHFJNMEOBMPIBOKLELBHIECFINEP
+	{
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[CompilerGenerated]
+		get
+		{
+			return true;
+		}
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[CompilerGenerated]
+		set
+		{
+		}
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public NFCHENOBPJJLAJHKNLPGJNMBOEIEPOIKIOOL()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static NFCHENOBPJJLAJHKNLPGJNMBOEIEPOIKIOOL()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static NFCHENOBPJJLAJHKNLPGJNMBOEIEPOIKIOOL HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

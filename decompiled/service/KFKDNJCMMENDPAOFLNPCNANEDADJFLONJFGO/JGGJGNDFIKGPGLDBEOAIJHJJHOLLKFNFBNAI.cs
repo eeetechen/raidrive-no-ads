@@ -1,0 +1,54 @@
+using System;
+using System.Runtime.CompilerServices;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace KFKDNJCMMENDPAOFLNPCNANEDADJFLONJFGO;
+
+internal class JGGJGNDFIKGPGLDBEOAIJHJJHOLLKFNFBNAI : KGMBDNNKIALBMGPPJOAJMLEJOKPCFJMPHBLN, IDisposable
+{
+	private readonly object PLNJENDGPAIBNDCOOJHOCGPHGAEMKHKAPCBI;
+
+	private bool FGBAKDFHCFLENNFFDIOLIGIAJENPJMEHEPKF;
+
+	internal static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal JGGJGNDFIKGPGLDBEOAIJHJJHOLLKFNFBNAI(long P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public override void NBDLAJFHBOHPINACKONDHCCEFIBKBNFJHOJJ(int P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private int LHNOHNMOGLPHGAAOOGBGHGNHGJBDFLLEMMNH(int P_0)
+	{
+		return 0;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public void Dispose()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static JGGJGNDFIKGPGLDBEOAIJHJJHOLLKFNFBNAI()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal new static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal new static JGGJGNDFIKGPGLDBEOAIJHJJHOLLKFNFBNAI HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

@@ -1,0 +1,31 @@
+# Build artefacts that must never be committed
+# The patched binary is distributed via GitHub Releases, NOT git.
+RaiDrive.Mount.noads*.exe
+RaiDrive.Mount.original.exe
+RaiDrive.Mount.exe
+backup/
+*.bak
+
+# .NET build output
+bin/
+obj/
+*.user
+*.suo
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vs/
+.vscode/
+.idea/
+
+# Local evidence / private logs
+*-evidence-*.zip
+logs-user/
+logs-wine/

@@ -1,0 +1,62 @@
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+using BADLBEDDNBLEAKBPHKHICOCAECBJMNNMBBDI;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace LENPCGPJHDHNJHBCALMLFHAJNIJGLGCHAIEJ;
+
+internal sealed class MCADGHEFADLDEKJFDHHLNJNAOMMGJDBMJENL
+{
+	private readonly List<OBBHGKLCMOBNMAKMKHDGDFCHEMKLCNKJKHGF> PBNIAHOBCLNDDCNPOEOJAINPKDCAACLPNFBA;
+
+	private static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	public int Count
+	{
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		get
+		{
+			return 0;
+		}
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void ACMLNDMMBNJOKCHLMAKGEOIFMFDPIKMDJIDA(string P_0, PMLFMNALFCCGJOAKJDAFJPMHLKBOCNKLBNDM P_1, bool P_2, bool P_3)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void ACMLNDMMBNJOKCHLMAKGEOIFMFDPIKMDJIDA(string P_0, string P_1, PMLFMNALFCCGJOAKJDAFJPMHLKBOCNKLBNDM P_2, bool P_3, bool P_4)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public IEnumerable<OBBHGKLCMOBNMAKMKHDGDFCHEMKLCNKJKHGF> CMOFJDJEGOLMHOELOLJPJBFFBFECJKMHIPNA()
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public MCADGHEFADLDEKJFDHHLNJNAOMMGJDBMJENL()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static MCADGHEFADLDEKJFDHHLNJNAOMMGJDBMJENL()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static MCADGHEFADLDEKJFDHHLNJNAOMMGJDBMJENL HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

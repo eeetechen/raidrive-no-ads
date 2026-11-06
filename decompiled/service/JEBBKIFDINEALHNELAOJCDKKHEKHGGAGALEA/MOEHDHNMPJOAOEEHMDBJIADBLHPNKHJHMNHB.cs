@@ -1,0 +1,75 @@
+using System.Runtime.CompilerServices;
+using LENPCGPJHDHNJHBCALMLFHAJNIJGLGCHAIEJ;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace JEBBKIFDINEALHNELAOJCDKKHEKHGGAGALEA;
+
+internal class MOEHDHNMPJOAOEEHMDBJIADBLHPNKHJHMNHB : AMHPKFMGCBPOHPDHFAFNOPOGBAOPLLEIKGKK
+{
+	private object HNFBBMJLIAKELHMALOFIDIBPHFOFBLNCMDMP;
+
+	private new static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal MOEHDHNMPJOAOEEHMDBJIADBLHPNKHJHMNHB(HFEIHIBDIHMLEGHNHMAMEODOJMEDMIHOCOFC P_0, string P_1)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal override bool INODIOKOCILFIDJJNJGKHMHDFFKPJGDGGECP(string P_0, bool P_1, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_2)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected override void Dispose(bool P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal override LBNNKMLFFJJPNPIPOBHBMCFEOMGFCCHEMFMH BLMHKDJEOBBANLMILENPJNDGLACNKNNOKCHH(AJHGADJCEJPCEEPKBDBGLGJCNDNFPHJHKJIH P_0, string P_1, bool P_2)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void CNEMIEHIBFDFIPDANDKDHPGAOHHJBLKHHFLM()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void BGJBPMLAMIFLBHDPFOBGKJJLKNLKAPACDJJP()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private bool NBAHDNCILEJLLBEIGJIFFFBENEHOCMJIHKIC()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal bool KNMMFCGFHDBEMIDLEECBMIHOHEIGJEGMKJOA(int P_0)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static MOEHDHNMPJOAOEEHMDBJIADBLHPNKHJHMNHB()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal new static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal new static MOEHDHNMPJOAOEEHMDBJIADBLHPNKHJHMNHB HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

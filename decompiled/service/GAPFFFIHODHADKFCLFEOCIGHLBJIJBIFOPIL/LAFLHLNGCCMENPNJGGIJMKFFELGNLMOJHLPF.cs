@@ -1,0 +1,47 @@
+using System;
+using System.Runtime.CompilerServices;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace GAPFFFIHODHADKFCLFEOCIGHLBJIJBIFOPIL;
+
+internal class LAFLHLNGCCMENPNJGGIJMKFFELGNLMOJHLPF : Exception
+{
+	public int FPJPMCDPGFEGKBAFDCKEBNGNLLEILFCFPCPD;
+
+	public object HOJEIMIMIBBOCKKNLIAOCDFNPBBAFKMGIAIH;
+
+	private static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	public override string Message
+	{
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		get
+		{
+			return null;
+		}
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public LAFLHLNGCCMENPNJGGIJMKFFELGNLMOJHLPF(int P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static LAFLHLNGCCMENPNJGGIJMKFFELGNLMOJHLPF()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static LAFLHLNGCCMENPNJGGIJMKFFELGNLMOJHLPF HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

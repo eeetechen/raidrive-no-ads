@@ -1,0 +1,44 @@
+using System.Runtime.CompilerServices;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace BDCAHHMLCJHGNDDGLGLPNHCNFDIIONKPCBIF;
+
+internal class NHLGEOOPGJMPGDIDDEOKCBCKPHFGNPKOAPLM
+{
+	private static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static void MICIMPNILJBKFGJPDKHNPNACFONNIILHJFPM(ref string P_0, object P_1, object P_2)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static string LMFOFJBIPJOOHFNFELAHOOPIKCINOMJMFLDP(object P_0, object P_1)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public NHLGEOOPGJMPGDIDDEOKCBCKPHFGNPKOAPLM()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static NHLGEOOPGJMPGDIDDEOKCBCKPHFGNPKOAPLM()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static NHLGEOOPGJMPGDIDDEOKCBCKPHFGNPKOAPLM HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

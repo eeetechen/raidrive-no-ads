@@ -1,0 +1,46 @@
+using System;
+using System.Runtime.CompilerServices;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+using Newtonsoft.Json;
+
+namespace BDCAHHMLCJHGNDDGLGLPNHCNFDIIONKPCBIF;
+
+internal sealed class PNNBKFEJBFMPKBFFCLLFOFMAJOCKLGHBMOGC : JsonConverter<NDHHEDOBDBDBJKAHDOALOABFHCHKPEPFNIJM>
+{
+	private static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public override void WriteJson(JsonWriter P_0, NDHHEDOBDBDBJKAHDOALOABFHCHKPEPFNIJM P_1, JsonSerializer P_2)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public override NDHHEDOBDBDBJKAHDOALOABFHCHKPEPFNIJM ReadJson(JsonReader P_0, Type P_1, NDHHEDOBDBDBJKAHDOALOABFHCHKPEPFNIJM P_2, bool P_3, JsonSerializer P_4)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public PNNBKFEJBFMPKBFFCLLFOFMAJOCKLGHBMOGC()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static PNNBKFEJBFMPKBFFCLLFOFMAJOCKLGHBMOGC()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static PNNBKFEJBFMPKBFFCLLFOFMAJOCKLGHBMOGC HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

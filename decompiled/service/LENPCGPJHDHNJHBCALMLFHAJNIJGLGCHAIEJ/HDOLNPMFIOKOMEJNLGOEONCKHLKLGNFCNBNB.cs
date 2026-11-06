@@ -1,0 +1,7 @@
+using System;
+using System.Net;
+using BDCAHHMLCJHGNDDGLGLPNHCNFDIIONKPCBIF;
+
+namespace LENPCGPJHDHNJHBCALMLFHAJNIJGLGCHAIEJ;
+
+internal delegate FOFDPPPMEJIMKNBHJCIHJBNHLFDMDBBPHHLG HDOLNPMFIOKOMEJNLGOEONCKHLKLGNFCNBNB(string logTag, HttpStatusCode code, string errorData, Exception httpException);

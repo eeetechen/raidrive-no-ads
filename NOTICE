@@ -1,0 +1,80 @@
+# NOTICE — 第三方内容与许可范围
+
+本仓库**并非全部**由本项目作者创作。以下逐项说明版权归属，请务必区分。
+
+---
+
+## 一、本项目作者原创（适用 GPL-3.0）
+
+| 路径 | 说明 |
+|---|---|
+| `scripts/` | 全部 PowerShell / Python 补丁与校验脚本 |
+| `tools/` | 独立实现的 PE / CLI 元数据 / IL 解析器（纯 Python，不依赖 ILSpy） |
+| `src/mdscan/` | 自建 C# PE + CLI 元数据扫描器 |
+| `src/dumper/` | 自建 C# 运行时 IL dumper |
+| `src/dec/` | 自建 C# 反编译封装 |
+| `docs/` | 技术文档 |
+| `install.bat`, `restore.bat` | 安装 / 还原脚本 |
+| `README.md` | 本说明 |
+
+以上内容采用 **GNU General Public License v3.0**，全文见 [LICENSE](LICENSE)。
+
+---
+
+## 二、不属于本项目，版权归第三方
+
+### 2.1 RaiDrive（OpenBoxLab Inc.）
+
+- `decompiled/RaiDrive.Mount.decompiled.cs`
+- `decompiled/service/**/*.cs`（928 个文件）
+
+这些是 RaiDrive Mount 2026.10.0 的**反编译产物**，
+版权归 **OpenBoxLab Inc.** 所有。
+
+**不适用 GPL-3.0。** 仅作为逆向工程研究资料随仓库提供，
+用于理解 .NET Reactor 加壳、单文件 bundle 结构等问题。
+**请勿再分发、商用或用于构建衍生作品。**
+
+### 2.2 补丁后的可执行文件
+
+`RaiDrive.Mount.noads.v4.exe` 通过 GitHub Releases 分发，**不进入 git 仓库**。
+
+它包含 RaiDrive 的原始代码（仅 4 个字节被修改），
+同样属于 OpenBoxLab Inc. 的版权物。
+
+### 2.3 ICSharpCode.Decompiler
+
+`src/dec/` 引用了 [ICSharpCode.Decompiler](https://github.com/icsharpcode/ILSpy)，
+采用 **MIT** 许可。版权归 ICSharpCode 团队。
+
+### 2.4 其它
+
+- `LICENSE` 全文版权归 Free Software Foundation, Inc.
+- RaiDrive、OpenBoxLab 是其各自所有者的商标
+
+---
+
+## 三、RaiDrive 的商标与授权
+
+**RaiDrive** 是 **OpenBoxLab Inc.** 的产品与商标。
+
+本项目：
+
+- **不提供**任何绕过授权、订阅或付费验证的功能
+- **未修改**任何授权相关代码（MethodDef `3554` 与 `7121` 保持原版，
+  且 `verify-patch.ps1` 每次运行都会断言这两处未被改动）
+- 与 OpenBoxLab Inc. **无任何关联、未获其授权或认可**
+
+---
+
+## 四、使用风险
+
+使用本仓库内容可能违反 RaiDrive 的最终用户许可协议（EULA）。
+
+本项目仅供技术研究与学习。使用者需自行确认：
+
+1. 是否拥有 RaiDrive 的合法授权；
+2. 所在地区的法律法规是否允许此类修改；
+3. 由此产生的一切后果由使用者自行承担。
+
+如果 RaiDrive 对你是必需的，请[购买正版](https://www.raidrive.com/pricing)。

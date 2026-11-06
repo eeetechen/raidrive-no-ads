@@ -1,0 +1,43 @@
+using System.Runtime.CompilerServices;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace OLIODMHHBIECNHFBIJGMDHIEOMOFEKHEDLPB;
+
+internal static class LPCPOAEADEPLKFBODHDGJNLAAPCOEGHBKNAH
+{
+	private static object AFIJMEGELILIGLKMAHOHDKJDNIOANCBOFNBA;
+
+	private static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	internal static JPBCLAAMMBGPFCADHDEBFAFKOMOEPNNBNJIB Current
+	{
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		get
+		{
+			return null;
+		}
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		set
+		{
+		}
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static LPCPOAEADEPLKFBODHDGJNLAAPCOEGHBKNAH()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static LPCPOAEADEPLKFBODHDGJNLAAPCOEGHBKNAH HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

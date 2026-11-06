@@ -1,0 +1,40 @@
+using System.Runtime.CompilerServices;
+using System.Threading;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace BDCAHHMLCJHGNDDGLGLPNHCNFDIIONKPCBIF;
+
+internal static class IICOKMLIBHOELMDLIGMHMMHGFDIGKFPHIPME
+{
+	internal static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static void OBOOPPMNCCFOMBKEKCFDEFHCHNHLOGBIJELI(int P_0, CancellationToken P_1)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static uint NCEFGBJLNLJGDMKNMCEALDFLNCBHNBLFLLBM(object P_0)
+	{
+		return 0u;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static IICOKMLIBHOELMDLIGMHMMHGFDIGKFPHIPME()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static IICOKMLIBHOELMDLIGMHMMHGFDIGKFPHIPME HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

@@ -1,0 +1,54 @@
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+using Newtonsoft.Json;
+
+namespace LOOEOMCPMNHONHIJPHEDDBOCOJPFHHJFMIBF;
+
+internal class OBALPNPJCAEIGKNIBHCFCBGHLECEDGACKDFN : MAJNNPMBGAGKCHPCBKFDLDEDGMJGOFHIEDBG
+{
+	[CompilerGenerated]
+	private List<OOEGPDADODFGPEMCFGKJFBNJPOEPEPPJNHBA> IDBKCGABDAEGDAJPALHOHCAHHEJALIIELPCN;
+
+	private static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[JsonProperty("metadata")]
+	internal List<OOEGPDADODFGPEMCFGKJFBNJPOEPEPPJNHBA> HJBALDFMGHMIIAHEDLEJFDLIICIMNIGFKIIN
+	{
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[CompilerGenerated]
+		get
+		{
+			return null;
+		}
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[CompilerGenerated]
+		set
+		{
+		}
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public OBALPNPJCAEIGKNIBHCFCBGHLECEDGACKDFN()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static OBALPNPJCAEIGKNIBHCFCBGHLECEDGACKDFN()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal new static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal new static OBALPNPJCAEIGKNIBHCFCBGHLECEDGACKDFN HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

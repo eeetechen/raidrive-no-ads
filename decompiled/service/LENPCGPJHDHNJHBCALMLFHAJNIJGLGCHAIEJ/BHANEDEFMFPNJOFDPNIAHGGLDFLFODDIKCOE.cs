@@ -1,0 +1,48 @@
+using System;
+using System.IO;
+using System.Runtime.CompilerServices;
+
+namespace LENPCGPJHDHNJHBCALMLFHAJNIJGLGCHAIEJ;
+
+internal interface BHANEDEFMFPNJOFDPNIAHGGLDFLFODDIKCOE
+{
+	bool IsDirectory { get; set; }
+
+	long FileSize { get; set; }
+
+	[SpecialName]
+	string JAJCCPKMJNGLNOCBIMECCDCIACFJPPNEACJN();
+
+	[SpecialName]
+	void ONNBKAFOLJKBIIJAOKFBEDIHPHFNEEILIOCI(string P_0);
+
+	[SpecialName]
+	long IPMEEOFHNHELDDDNNMJIJAEABJABHBEIBHFK();
+
+	[SpecialName]
+	void IDCNLIFGLBKKMGBGACIEEIOFKBFFPDCMILKM(long P_0);
+
+	[SpecialName]
+	FileAttributes KEJMKJLGLACIDCLGOKGMMHPKGHDHJLLJOLIN();
+
+	[SpecialName]
+	void BDOIHMDDPGDNPJJMKFCFDLANKFBMJCILEEIO(FileAttributes P_0);
+
+	[SpecialName]
+	DateTime GGBIOJIEDEDCCMGOPFAAOAOMLMNHIBGPOCOG();
+
+	[SpecialName]
+	void KIOMGFJKIGHCAJKFBICCPPCOBFIGJKOELABN(DateTime P_0);
+
+	[SpecialName]
+	DateTime MLBLIAEJNCJMOGCLGGOPPMKHNMHMHBACDGFN();
+
+	[SpecialName]
+	void HAABAOMOCLJJNLPHHFKDNLICGGLNIGPBGEKG(DateTime P_0);
+
+	[SpecialName]
+	DateTime BCDLKEKOMEEAGMKBNFFHAGBOEFGLJEIJLGAL();
+
+	[SpecialName]
+	void NPDGEOCALKDIEHLNFPAKOLJCNLJFEAENCKPN(DateTime P_0);
+}

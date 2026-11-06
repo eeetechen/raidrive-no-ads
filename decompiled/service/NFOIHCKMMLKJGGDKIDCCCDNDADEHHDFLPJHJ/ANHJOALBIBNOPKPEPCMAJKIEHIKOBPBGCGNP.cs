@@ -1,0 +1,136 @@
+using System;
+using System.Diagnostics;
+using System.Runtime.CompilerServices;
+using LENPCGPJHDHNJHBCALMLFHAJNIJGLGCHAIEJ;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace NFOIHCKMMLKJGGDKIDCCCDNDADEHHDFLPJHJ;
+
+internal class ANHJOALBIBNOPKPEPCMAJKIEHIKOBPBGCGNP : IDisposable
+{
+	protected object LJEPMBPEIFBOLBLMGLPNDGJHKGAJKHGLEPAP;
+
+	protected object PBLKPJCJBOIABIMKJLMDDAIIANNFBCMFEHKM;
+
+	protected bool POMCKFJEJJDBNEGNCHEKPPLKDEELDEFIIINJ;
+
+	internal static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal ANHJOALBIBNOPKPEPCMAJKIEHIKOBPBGCGNP(string P_0, HFEIHIBDIHMLEGHNHMAMEODOJMEDMIHOCOFC P_1)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal virtual MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP GetFileInfo(AEJKDJKAFGPDBHNAEEPKANAHPCKENCCDKLED processAction, string fullname, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP file, bool sendDiskNotify)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal virtual LCNCHBKDLGJHIPBEMIAPCILLBLGOEIOADGPF CreateFolder(AEJKDJKAFGPDBHNAEEPKANAHPCKENCCDKLED procAction, string fullname, uint fileAccess, uint fileAttributes, uint shareMode, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP parentFile)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal virtual LCNCHBKDLGJHIPBEMIAPCILLBLGOEIOADGPF CreateFile(AEJKDJKAFGPDBHNAEEPKANAHPCKENCCDKLED procAction, string fullname, uint fileAccess, uint fileAttributes, uint shareMode, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP parentFile)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal virtual LCNCHBKDLGJHIPBEMIAPCILLBLGOEIOADGPF FBKPKGPPHIEHCBPAMLGCDKGKBILFEHFJMDKD(AEJKDJKAFGPDBHNAEEPKANAHPCKENCCDKLED P_0, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_1, uint P_2, uint P_3, uint P_4, bool P_5, bool P_6)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal virtual AJHGADJCEJPCEEPKBDBGLGJCNDNFPHJHKJIH BMKEECFKAJAHPLDAEJEKEGGJNIOOIMCEOJHM(AEJKDJKAFGPDBHNAEEPKANAHPCKENCCDKLED P_0, LCNCHBKDLGJHIPBEMIAPCILLBLGOEIOADGPF P_1, uint P_2, uint P_3, uint P_4, bool P_5, bool P_6)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal virtual void BBGNBIADJDHMEFHMONIGKNLEADIAHNLAMEBA(LCNCHBKDLGJHIPBEMIAPCILLBLGOEIOADGPF P_0, AJHGADJCEJPCEEPKBDBGLGJCNDNFPHJHKJIH P_1)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal virtual void ECOPMGBMBAJEOGDKHLEDFDMLGICAGOJBJIII(LCNCHBKDLGJHIPBEMIAPCILLBLGOEIOADGPF P_0, AJHGADJCEJPCEEPKBDBGLGJCNDNFPHJHKJIH P_1, bool P_2)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal virtual void HDEKJJDBBEAKPMAIHELDLJJJIAODBOBMKGED(LCNCHBKDLGJHIPBEMIAPCILLBLGOEIOADGPF P_0, AJHGADJCEJPCEEPKBDBGLGJCNDNFPHJHKJIH P_1)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal virtual bool HDGCKNIHMBOOAENAGELMAIEKDENKCACNJNOP(MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_0, bool P_1)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP ANPGDHAMLDCIAEHDDBCENHBOMNAENICIABBG(MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_0, string P_1, bool P_2)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP NKIHAIOFFLDMDPMEJNEDEEEPBAIJCEFCIKNA(MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_0, string P_1, bool P_2)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	[Conditional("DEBUG")]
+	protected void KIELJDJBONHOAFMAMLBMEMANAMNOEMLHJIMP(string P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected void JLBGCDLPIDHPHJAEFCHMJAHIJJJAKAODMFCF(string P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected void MLILNFCEIMFPOAKOBDCKEMBPFPNOIHHCAEKB(string P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected void PAAFPJBKNHMKJKPCBAOKOCFGONIOIHFNHPMP(string P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected virtual void Dispose(bool P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public void Dispose()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static ANHJOALBIBNOPKPEPCMAJKIEHIKOBPBGCGNP()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static ANHJOALBIBNOPKPEPCMAJKIEHIKOBPBGCGNP HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

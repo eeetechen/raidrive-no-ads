@@ -1,0 +1,89 @@
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace OLIODMHHBIECNHFBIJGMDHIEOMOFEKHEDLPB;
+
+internal sealed class EONGGJBIFAFIGBABOOKIDMHAFPMKDBBABKDN : OAGJPCGEENDFBHHINHJJPHIOCNICEPEJGFMC
+{
+	[CompilerGenerated]
+	private sealed class AGJGMOPJPFPLIHHKAKLLJBJMIGJNIDJNAOFI
+	{
+		public Dictionary<string, string> IOMFFFFEKCJGEAMAADFEGPIHFADIMJKKKALI;
+
+		private static AGJGMOPJPFPLIHHKAKLLJBJMIGJNIDJNAOFI CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public AGJGMOPJPFPLIHHKAKLLJBJMIGJNIDJNAOFI()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal void LEBEIGJNONFGELEKNHGBHBLFIPNAICINNDFH()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		static AGJGMOPJPFPLIHHKAKLLJBJMIGJNIDJNAOFI()
+		{
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static AGJGMOPJPFPLIHHKAKLLJBJMIGJNIDJNAOFI HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+		{
+			return null;
+		}
+	}
+
+	internal static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	[SpecialName]
+	public string LMIIKKOANLFPBBDIPOLOKNLNBJNFAHHMLGCH()
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public Dictionary<string, string> EAEGANJLGANILJEKDLBPIKNIBCNJFMELGJKK()
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private static void BEKAPCPLFHOOHFOBPJECHHNLEBOCKCBBCECF(Dictionary<string, string> P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public EONGGJBIFAFIGBABOOKIDMHAFPMKDBBABKDN()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static EONGGJBIFAFIGBABOOKIDMHAFPMKDBBABKDN()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static EONGGJBIFAFIGBABOOKIDMHAFPMKDBBABKDN HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

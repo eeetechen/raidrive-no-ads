@@ -1,0 +1,3 @@
+namespace FCDFKDDBOANDAGAPEDAMOKGOOPLAJEOBIHDM;
+
+internal delegate void MDOCIFNDGIOGHHLDLDJPCHODEIMKCAPJLFNB(object callerParam, string errorMsg);

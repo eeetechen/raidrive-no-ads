@@ -1,0 +1,87 @@
+using System;
+using System.Runtime.CompilerServices;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace BADLBEDDNBLEAKBPHKHICOCAECBJMNNMBBDI;
+
+internal class ALAOABGAGELJPKLINIOCOJAONLBDHHCJFCMH : IDisposable
+{
+	internal object PLPPJLMHGLAPMNMGGOJAIJPNJFAEGBCHOKMK;
+
+	internal bool BFHMPOKFJJKNOPPOGGBJMHIMHDFIFMMMAHKG;
+
+	internal object HAJJLCBIBJHCGCPJLENGLCPKNJOCHLCIMFHN;
+
+	internal PMLFMNALFCCGJOAKJDAFJPMHLKBOCNKLBNDM KHNGENOFMMLKPOMCFDNCOBMGHMFKOMOHPIGP;
+
+	internal long AEGKBJHAGAPJIJHMJANJJILMOOKICAICKDKP;
+
+	private int NBHFAOEAPIFHFBDFALCLOKKOEFMHMBJKAMKD;
+
+	private readonly object GLAJDMLGLLJEHDDJCIJPONHBKNGLNGOALJEJ;
+
+	internal static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal ALAOABGAGELJPKLINIOCOJAONLBDHHCJFCMH(string P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void CNNLAHOELDKMMBKAILPKKDPEDFAENFILJMFJ()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void BNECBADMMDMOODLODCOCPKILPLLIALAIGBAB()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal bool KCDJKFNOEJDMLIHHAHGHLMJAPKMGNOHGPAKJ()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal int AOIPEOECCOGMJCBCLJPPHKPKALAMAJBPPEIB()
+	{
+		return 0;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal int HPBBDPEBCCECAFIDDEDMBNLIKABBKBHIGJPD()
+	{
+		return 0;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal int GJEIMFEMKDHEIMMBIFPHKNIPGNGOIOKGGNBG()
+	{
+		return 0;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public void Dispose()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static ALAOABGAGELJPKLINIOCOJAONLBDHHCJFCMH()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static ALAOABGAGELJPKLINIOCOJAONLBDHHCJFCMH HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

@@ -1,0 +1,108 @@
+using System;
+using System.Collections.Concurrent;
+using System.Diagnostics;
+using System.Runtime.CompilerServices;
+using LENPCGPJHDHNJHBCALMLFHAJNIJGLGCHAIEJ;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace NFOIHCKMMLKJGGDKIDCCCDNDADEHHDFLPJHJ;
+
+internal class ADLEFCACCACJCBCABAADEAOBCAALDMDBJNBD : AEJKDJKAFGPDBHNAEEPKANAHPCKENCCDKLED
+{
+	protected bool PHENMMBBIMPHCCKEJAJADIFACKMDJNBPCHBN;
+
+	protected readonly ConcurrentDictionary<string, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP> HJAHMHLCBMPNOHIEABAIHCCDGNKNNGGGJAED;
+
+	protected readonly ConcurrentDictionary<string, LKGKJKEBODDJBAHAFBKODAPDPDAHFDDEODKO> MBMLJFICNBIEGPBDODGCADDPCEMOLJLOOING;
+
+	internal static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal ADLEFCACCACJCBCABAADEAOBCAALDMDBJNBD(uint P_0, string P_1, DateTime P_2, Process P_3, HFEIHIBDIHMLEGHNHMAMEODOJMEDMIHOCOFC P_4, string P_5)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected LCNCHBKDLGJHIPBEMIAPCILLBLGOEIOADGPF PGKOALFOMBDNOBPKMADJHMHICPADJLFLEGGA(string P_0, uint P_1, uint P_2, uint P_3, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_4, bool P_5)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal override LCNCHBKDLGJHIPBEMIAPCILLBLGOEIOADGPF FBKPKGPPHIEHCBPAMLGCDKGKBILFEHFJMDKD(MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_0, uint P_1, uint P_2, uint P_3, bool P_4, bool P_5)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal override AJHGADJCEJPCEEPKBDBGLGJCNDNFPHJHKJIH BMKEECFKAJAHPLDAEJEKEGGJNIOOIMCEOJHM(LCNCHBKDLGJHIPBEMIAPCILLBLGOEIOADGPF P_0, uint P_1, uint P_2, uint P_3, bool P_4, bool P_5)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected bool NIJMDNACGGKOKILCCELKLFAGGIOEADNLLPNA(string P_0, bool P_1)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected bool KAMJNJMFBGPGIOJBCLEPJAAPBLEEBMCJOMOE(string P_0, string P_1, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_2, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_3)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected bool KIGMLFAMDEFKMGMPEOALEIBBALADAKKKBPHO(string P_0, string P_1, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_2)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private bool NGBFNGDAOCKGBNCEIDFELCOMEICPANAMHILH(string P_0, string P_1, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_2, LKGKJKEBODDJBAHAFBKODAPDPDAHFDDEODKO P_3)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private bool KOALJBLDFMPCJIGLPMLFKCDKCHADBEPDHKAG(string P_0, string P_1, MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP P_2)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private bool BALAFEOMCEKMJNEGNFGBPNEFIPLLJEBCNOAC(string P_0, string P_1)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected MBFEJMCBCMOLFJLOHHLFDJDGIPILPDDKOIKP OFNLKMJDLJABPEHFJOOPABKKAPCMGAMNFEBI(string P_0)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	protected override void Dispose(bool P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static ADLEFCACCACJCBCABAADEAOBCAALDMDBJNBD()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal new static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal new static ADLEFCACCACJCBCABAADEAOBCAALDMDBJNBD HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

@@ -1,0 +1,286 @@
+using System;
+using System.Collections.Generic;
+using System.Runtime.CompilerServices;
+using LENPCGPJHDHNJHBCALMLFHAJNIJGLGCHAIEJ;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+using Microsoft.Data.Sqlite;
+
+namespace GAPFFFIHODHADKFCLFEOCIGHLBJIJBIFOPIL;
+
+internal sealed class KGAPNPLNBFGJHHJNKEDNGPIMLLBHOPAHHJOG : IDisposable
+{
+	[CompilerGenerated]
+	private string JJDKAOOECOCENIEAAMJBLLCPDDANFFPKKOMM;
+
+	private readonly bool HHIGINCLGOPLNEEDNPCGEIALFJLOALOLPIML;
+
+	private readonly object OMHOFDGGIFCJPLPNIBEECLOFHFBBNGCCNIGO;
+
+	private readonly object GMFEEIKLFBGLBIHKKOAGADPFJJCMLMCDMAEO;
+
+	[CompilerGenerated]
+	private SqliteConnection EDNJNGNJGLMBEHKDCAILHFHGAFMMCENAKNFN;
+
+	private object OGJDKIGEDJGNLFOAHMCHHAOLOEJKOFBHJBKI;
+
+	private readonly object ADPFINLJLBOOHKFLKNGNOBNIGIPFGDHJCMOH;
+
+	private bool KINIPFMGOGHPCLMLBCFHJCKOJCFIADPNNBOG;
+
+	private readonly object KFLEDMIEFACMEGCFBGOJEFOIADHGHEBMNFHF;
+
+	private readonly object JDJBMKEKCKGJHIMLOEFKLNFNOLIODPIKIOJF;
+
+	private bool POMCKFJEJJDBNEGNCHEKPPLKDEELDEFIIINJ;
+
+	internal static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	[SpecialName]
+	[CompilerGenerated]
+	private string BFNMJDACFAIAHKLOADDLLHJDMLALCGHDJLKB()
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	[SpecialName]
+	[CompilerGenerated]
+	private void PBGFAJBEGKIKKGHHJMLEGOGBFJJFAAGBMJFK(string P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	[SpecialName]
+	[CompilerGenerated]
+	private SqliteConnection OMFMNLKMNBGBJFMAPFPDIMHGCALLJIHDAAHD()
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	[SpecialName]
+	[CompilerGenerated]
+	private void BLOFJLKDOPPGHCAEOAKBOHNLKAEJEJNDIEEJ(SqliteConnection P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal KGAPNPLNBFGJHHJNKEDNGPIMLLBHOPAHHJOG(string P_0, string P_1, string P_2, bool P_3, bool P_4)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void EGAANBFBHAMJBNHEBKFLAPMNNAPIALMOMIGL()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private void LDKKONNPECFLFEGOANAKMKALHDMBKAMHMIPO(bool P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void AGNLBBGFHFAJBEFACNILOEAANFDCFIJBGEKB()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.COLIGHAMNKGJCMIOAMPIDCEKPHOCBHJHBMFO PDMGNFHMGLHEALDKIDFHAAMHLOOCOPGKDAEI()
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void GGPHFJKFGLMIGDGJLMDFPLOMFMMKBEFGGIEK(OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.COLIGHAMNKGJCMIOAMPIDCEKPHOCBHJHBMFO P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void PJAMMJFBFELMHCPLILNOGFKGGPBFKDOPDAIJ(OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.ENBKODIACGODOPOGFDCFLABBNBBPEHGEDKOF P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void JBIJIGKPAMLPMCOPFGBIKFIHHCKJPMIFFJMK(IEnumerable<OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.ENBKODIACGODOPOGFDCFLABBNBBPEHGEDKOF> P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal bool HPLNAINDLMKBMKKABJFELHAHNBFGHMJMLPMM(OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.ENBKODIACGODOPOGFDCFLABBNBBPEHGEDKOF P_0)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal int BLFICBPGILLAFNEOMDEJBBPPMJECMKHEILHD()
+	{
+		return 0;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal bool KLNFGDIFNAEGILHONHNCKCBAHECFBHBKPFOH(string P_0)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.ENBKODIACGODOPOGFDCFLABBNBBPEHGEDKOF IHHIHGFKNCDJIHBENOBDCEDJBEFHGPFKMOAP(string P_0)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.ENBKODIACGODOPOGFDCFLABBNBBPEHGEDKOF JCCDBACDPPNICNMOCAKGDFBHDANDBLKNFFFL(string P_0)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.ENBKODIACGODOPOGFDCFLABBNBBPEHGEDKOF NOFIOOCDGKLMOONOFDBKFEKHEHFPOOFAGIED(string P_0, string P_1)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal List<IBEOKHFPCFMEEADJOFODOCFCKLFJJBOJFABM> DGNLBDGEMABFNLNJNAKEMMBGGIMPLNCNBMLJ(string P_0)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal List<IBEOKHFPCFMEEADJOFODOCFCKLFJJBOJFABM> GMKDECOELGKCINKFBMDGKLBMCMALLGOFCAPN()
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void NOHGMCHCFDCHAAGJKJNAIBAJIGOCGMBCCGPL(string P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void BKDPHPAINBFPBLLMADLHGDNIOCGGJJDODIMP(string P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void DeleteFolder(string folderid)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void JFOLNHPJCNIHBBPAPAIPHIIDHEDKADENLJEJ()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal Dictionary<string, OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.PHPELHBGFJACIHOJPNCCBICNOJNMBKJHBNCN> BFMKHMAHFDEGEMDABMHLOLPOOMNHMMIJODAP()
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void EGHLDAGNEFDCAJIEKLEJABOEGDPNEGINPMPN(IEnumerable<OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.PHPELHBGFJACIHOJPNCCBICNOJNMBKJHBNCN> P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal List<OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.LEKMDMGJACGHAGJPMLHOAIELCFFCOJDBDELC> MHHLDGLHELPNCGMBBOMLDPJBEGFBGMBBCEIL()
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void GBEELLMMPEPOKOKJPCDANINPGDGBGHAIDLHJ(IEnumerable<OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.LEKMDMGJACGHAGJPMLHOAIELCFFCOJDBDELC> P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void MLOKCHEHCCIFAGKIHMNHLMLKIEDBMKHLKECM()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void LNFBLCFGIAKEOELEIGFECIMBNMMJMEBHPLLB()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal void ANCAGNLNGPHPPMDIJLNAIIGPJIMBJFGLPIAE()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private byte[] DFBAPJIDMKKIDOJIMBJOPCKOFKFPBIBCIDLM(OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.ENBKODIACGODOPOGFDCFLABBNBBPEHGEDKOF P_0)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private OJONFCOEECDNDCOHCLIFNFIOPIIGEFEGNFDJ.ENBKODIACGODOPOGFDCFLABBNBBPEHGEDKOF GOGINEDKKGLNLALKOBPJHCDNFNDLJPKFMJNE(byte[] P_0)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private byte[] EEEEBODNIENNEPDLGEPBNHPCNMDNFNPPAIHO<EMMOKJIALCDEJMEOGHNAEBCAAAKCAIBHHENP>(EMMOKJIALCDEJMEOGHNAEBCAAAKCAIBHHENP HILLNPCNBOEPNKBFMIGLAHAOJNGHAFLLPHAH)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private EMMOKJIALCDEJMEOGHNAEBCAAAKCAIBHHENP HOCBLPHBBFLOCKIKMKCKOFKFHFFNGFHCFIMJ<EMMOKJIALCDEJMEOGHNAEBCAAAKCAIBHHENP>(byte[] P_0)
+	{
+		return (EMMOKJIALCDEJMEOGHNAEBCAAAKCAIBHHENP)null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private static void KIELJDJBONHOAFMAMLBMEMANAMNOEMLHJIMP(object P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private static void JLBGCDLPIDHPHJAEFCHMJAHIJJJAKAODMFCF(object P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private static void MLILNFCEIMFPOAKOBDCKEMBPFPNOIHHCAEKB(object P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private static void PAAFPJBKNHMKJKPCBAOKOCFGONIOIHFNHPMP(object P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private void GOGCKGIFMIPFGBJDMMMILKDOPCDNFGDFGCLN(bool P_0)
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	public void Dispose()
+	{
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static KGAPNPLNBFGJHHJNKEDNGPIMLLBHOPAHHJOG()
+	{
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static KGAPNPLNBFGJHHJNKEDNGPIMLLBHOPAHHJOG HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}

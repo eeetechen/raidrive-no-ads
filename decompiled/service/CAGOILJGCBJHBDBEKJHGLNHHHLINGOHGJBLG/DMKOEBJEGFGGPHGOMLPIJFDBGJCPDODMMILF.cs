@@ -1,0 +1,383 @@
+using System;
+using System.Runtime.CompilerServices;
+using System.Runtime.InteropServices;
+using System.Security.Cryptography;
+using System.Threading;
+using ICJOPEKMCHLGNAOFOAPFCIHMKDAHIGMICIAE;
+using LIKCEKLPJGFLBICDCNPHGANDLBGFGNJDEDPF;
+
+namespace CAGOILJGCBJHBDBEKJHGLNHHHLINGOHGJBLG;
+
+internal static class DMKOEBJEGFGGPHGOMLPIJFDBGJCPDODMMILF
+{
+	private sealed class KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN
+	{
+		[CompilerGenerated]
+		private readonly byte HIHGPIOMPKHAJFFJBEAKHKKLOFBDADPFCDLC;
+
+		[CompilerGenerated]
+		private readonly RSAEncryptionPadding IMGJOBONJKENGMEKBAHFNDFLDINGPJMLKPMB;
+
+		[CompilerGenerated]
+		private readonly string GNNMMHCNBDGKOOJLOLKMANAPKEKINHEGNCCL;
+
+		[CompilerGenerated]
+		private readonly string MLDPNHOHFPFBLKMALCNPFFBPFOECGBCMJEDC;
+
+		internal static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[SpecialName]
+		[CompilerGenerated]
+		internal byte BKCHAODBEGMAKDEKEMAABFHDHMNEFLAIMMNE()
+		{
+			return 0;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[SpecialName]
+		[CompilerGenerated]
+		internal void DEMJPLEDNHCLNHOAKPJCJCOJDJDDOJCHGDNH(byte P_0)
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[SpecialName]
+		[CompilerGenerated]
+		internal RSAEncryptionPadding CJEECBPAGBNHKDDDFEPGDNDPHLBJIBPKBLCE()
+		{
+			return null;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[SpecialName]
+		[CompilerGenerated]
+		internal void IOCNIPLJBDLIJLFLFBDGOPIGFEOBDHAABMDO(RSAEncryptionPadding P_0)
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[SpecialName]
+		[CompilerGenerated]
+		internal string LMIIKKOANLFPBBDIPOLOKNLNBJNFAHHMLGCH()
+		{
+			return null;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[SpecialName]
+		[CompilerGenerated]
+		internal void EFCGDEOJHBNCNFBCFNLHBMONDEMAHEJAGOIE(string P_0)
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[SpecialName]
+		[CompilerGenerated]
+		internal string FOEBJMNFLLJFJHPJBCCPPBDJJJICBAMNOHIK()
+		{
+			return null;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		[SpecialName]
+		[CompilerGenerated]
+		internal void DANJNOPMBFBMOLIANIFALJJKMEDBIMEFJGIA(string P_0)
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		static KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN()
+		{
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+		{
+			return null;
+		}
+	}
+
+	[StructLayout(LayoutKind.Sequential, CharSet = CharSet.Unicode)]
+	private struct DIEBELLPONIJHCIICDKHNBFDPPMOACIDGLIO
+	{
+		[MarshalAs(UnmanagedType.LPWStr)]
+		internal string BOLOIEDFJMNFOOAHGGKJFFHKPACENALCHAPF;
+
+		[MarshalAs(UnmanagedType.LPWStr)]
+		internal string HOPLJPCKBAGEPIHIIEECEDBGNDEFNLDFNEIP;
+	}
+
+	[CompilerGenerated]
+	private sealed class NICFKJLOCGNJBEOGKBEDJHPNADNDPPGIGKHE
+	{
+		public byte FIOIKEPGLALCKHPAPGMBCHPLKBGIADLBALPN;
+
+		internal static NICFKJLOCGNJBEOGKBEDJHPNADNDPPGIGKHE CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		public NICFKJLOCGNJBEOGKBEDJHPNADNDPPGIGKHE()
+		{
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal bool KNNPBICMMOBOBJBHOMGCIOJCJKAIECBMKKEK(KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN c)
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		static NICFKJLOCGNJBEOGKBEDJHPNADNDPPGIGKHE()
+		{
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+			GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+		{
+			return true;
+		}
+
+		[MethodImpl(MethodImplOptions.NoInlining)]
+		internal static NICFKJLOCGNJBEOGKBEDJHPNADNDPPGIGKHE HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+		{
+			return null;
+		}
+	}
+
+	private static readonly object NLBIHGLHIMLJJEFHGNOCMMDILJMGEDJEOELN;
+
+	private static bool? CNAANDFAAOFNPGONLMEDECFBBOFHKBKMAAOH;
+
+	private static DateTime MNGNFEDGILADDEKEBPNIJNBKDNMNJCBIALMO;
+
+	private static readonly TimeSpan PNLMDPEKKABILBBBGIEPHODGJIDMMOLAIDNF;
+
+	private static readonly object AODBMONLMHOIFKEPHAHCCEHPHCIHLODEMOEC;
+
+	private static int IOGLCOFHKGGMLCEIJPHKEDHCMKDOLMNDMMFH;
+
+	private static object GBOFPCEBIMOFLNHFBCOBMLFBBLJCOLEAGPIA;
+
+	private static readonly object KLMPGJNFFMOJIPOLIHODOAHJMEBKOOKFINAN;
+
+	private static object CMOCOAKAPMHPEHECCOBNJEALEFIDPJDHJKEF;
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	[SpecialName]
+	internal static bool GJAENFMHADLOIJIDHFFABGGJDLJKCFBGNLPE()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private static bool BLKBHMDNCMIKPOPJNBDNFKNEIPAPPLIMKCKK(object P_0, out RSAEncryptionPadding P_1, out byte P_2)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private static RSAEncryptionPadding AMPEFIGIKIGIAJAKNCDBMCEMNKIKICLJKINN(byte P_0)
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private static bool MLPMBDKGADEIPOMEFPJIBIDKCJJDAEFOBAGC(object P_0, object P_1, out string P_2)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool HIKFNPBAOEJAKBLBIPLLDNIFHBKHKDIHHLLP(object P_0, out byte[] P_1)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool NIPCKDFHFOGGBBJIJMGDFOGMMBPBGKFPKNGG(object P_0, out byte[] P_1)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static string BPHANHBNPCAAKNLKAJLNLKAPFDJGAPCCONOE()
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static string JPFCEBDAODPGMGDACPHALCDELCMEHAKPJABG()
+	{
+		return null;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private static bool BDPAJJAGICJMLKKAOMBIFMCNEEIFAGGKGMAI()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static string NEFMIEAJDEMGGEGHMFJGCBCKLCDGDBNFBLJA()
+	{
+		return null;
+	}
+
+	[DllImport("ncrypt.dll", EntryPoint = "NCryptEnumStorageProviders")]
+	private static extern int JPAINDDEBEFIKLNLJANHGCLFNOGKHPOKGIOK(out uint P_0, out nint P_1, uint P_2);
+
+	[DllImport("ncrypt.dll", EntryPoint = "NCryptFreeBuffer")]
+	private static extern int GNGJPBKLEDKGDKIJBDEBOOPHAMNEHLKEGDEG(nint P_0);
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	private static bool PPNJDMEPOLOBEKKFNCPLJMIJLPHCPILEFIFH(out CngKey P_0)
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	static DMKOEBJEGFGGPHGOMLPIJFDBGJCPDODMMILF()
+	{
+		//IL_0100: Expected O, but got I4
+		GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJOLIPBMJHCEOLFMLAFNMMPLOBGECDDDOFLK();
+		int num = 1;
+		while (true)
+		{
+			int num2 = num;
+			while (true)
+			{
+				int num3 = num2;
+				while (true)
+				{
+					switch (num3)
+					{
+					default:
+						if (num2 != 16)
+						{
+							if (num2 == 997)
+							{
+								goto end_IL_0012;
+							}
+							goto case 6;
+						}
+						GBOFPCEBIMOFLNHFBCOBMLFBBLJCOLEAGPIA = 0;
+						num3 = 1;
+						if (_003CModule_003E_007B25e48f6e_002Df4cb_002D4048_002D8b27_002Dc61c82e409b6_007D.m_6095ed59f511470f8858a81603566f5e.m_06489ccc250a4aefa6dd80dff4dfbbcf != 0)
+						{
+							num3 = 9;
+						}
+						continue;
+					case 7:
+						MNGNFEDGILADDEKEBPNIJNBKDNMNJCBIALMO = DateTime.MinValue;
+						num3 = 6;
+						if (_003CModule_003E_007B25e48f6e_002Df4cb_002D4048_002D8b27_002Dc61c82e409b6_007D.m_6095ed59f511470f8858a81603566f5e.m_f0e9699ff7774e5b8decd9235bbb7554 != 0)
+						{
+							num3 = 11;
+						}
+						continue;
+					case 1:
+						GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.PJNKIHNGHFGCNDIMBMPIOEOHDHLMEJGICCDP();
+						num3 = 1;
+						if (_003CModule_003E_007B25e48f6e_002Df4cb_002D4048_002D8b27_002Dc61c82e409b6_007D.m_6095ed59f511470f8858a81603566f5e.m_0bb7c0363a8e4d8bb83c930f44c4895f != 0)
+						{
+							num3 = 0;
+						}
+						continue;
+					case 6:
+						PNLMDPEKKABILBBBGIEPHODGJIDMMOLAIDNF = TimeSpan.FromMinutes(5L);
+						num = 8;
+						break;
+					case 5:
+						NLBIHGLHIMLJJEFHGNOCMMDILJMGEDJEOELN = new CngProvider(GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.LGFICOJCEDNCDBGHPGKOJPBMAGHFKCMNGIEM(0x6E955542 ^ _003CModule_003E_007B25e48f6e_002Df4cb_002D4048_002D8b27_002Dc61c82e409b6_007D.m_6095ed59f511470f8858a81603566f5e.m_be9e1b4ff8fa4b9e9594c19e4d5bda48));
+						num3 = 7;
+						continue;
+					case 3:
+						IOGLCOFHKGGMLCEIJPHKEDHCMKDOLMNDMMFH = 0;
+						num = 16;
+						if (_003CModule_003E_007B25e48f6e_002Df4cb_002D4048_002D8b27_002Dc61c82e409b6_007D.m_6095ed59f511470f8858a81603566f5e.m_44269caca8c0498f81d7a8f60e652573 != 0)
+						{
+							num = 13;
+						}
+						break;
+					case 8:
+						AODBMONLMHOIFKEPHAHCCEHPHCIHLODEMOEC = new Lock();
+						num3 = 3;
+						continue;
+					case 0:
+						GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.DLAMFDPKJOBMPKPOENJIKMDJJANMNLIGPAPJ();
+						num3 = 4;
+						if (_003CModule_003E_007B25e48f6e_002Df4cb_002D4048_002D8b27_002Dc61c82e409b6_007D.m_6095ed59f511470f8858a81603566f5e.m_1848f58f3e564d758a8cdaa5b5bb2bb1 == 0)
+						{
+							num3 = 2;
+						}
+						continue;
+					case 2:
+						GCKJPIMLLCGALLONMOJGBOFOCIIOGJMOFLEI.JNMLINCDJFDFJOCKHAEFNDGOGEFAEBOBFIHD();
+						num3 = 5;
+						continue;
+					case 4:
+						return;
+					case 9:
+					{
+						KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN[] array = new KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN[3];
+						KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN = new KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN();
+						kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN.DEMJPLEDNHCLNHOAKPJCJCOJDJDDOJCHGDNH(1);
+						kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN.IOCNIPLJBDLIJLFLFBDGOPIGFEOBDHAABMDO(RSAEncryptionPadding.OaepSHA256);
+						kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN.EFCGDEOJHBNCNFBCFNLHBMONDEMAHEJAGOIE(GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.LGFICOJCEDNCDBGHPGKOJPBMAGHFKCMNGIEM(0x1B33773C ^ _003CModule_003E_007B25e48f6e_002Df4cb_002D4048_002D8b27_002Dc61c82e409b6_007D.m_6095ed59f511470f8858a81603566f5e.m_fa78dc7e5a3141c1904cdbe4b81fa64c));
+						array[0] = kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN;
+						KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN2 = new KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN();
+						kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN2.DEMJPLEDNHCLNHOAKPJCJCOJDJDDOJCHGDNH(2);
+						kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN2.IOCNIPLJBDLIJLFLFBDGOPIGFEOBDHAABMDO(RSAEncryptionPadding.OaepSHA1);
+						kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN2.EFCGDEOJHBNCNFBCFNLHBMONDEMAHEJAGOIE(GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.LGFICOJCEDNCDBGHPGKOJPBMAGHFKCMNGIEM(0x6395897E ^ _003CModule_003E_007B25e48f6e_002Df4cb_002D4048_002D8b27_002Dc61c82e409b6_007D.m_6095ed59f511470f8858a81603566f5e.m_c7348182c8504696bcf95e12f4329699));
+						kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN2.DANJNOPMBFBMOLIANIFALJJKMEDBIMEFJGIA(GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.LGFICOJCEDNCDBGHPGKOJPBMAGHFKCMNGIEM(0x23872612 ^ _003CModule_003E_007B25e48f6e_002Df4cb_002D4048_002D8b27_002Dc61c82e409b6_007D.m_6095ed59f511470f8858a81603566f5e.m_a6845d6a917f404dabc13f155e8ba34d));
+						array[1] = kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN2;
+						KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN3 = new KKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN();
+						kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN3.DEMJPLEDNHCLNHOAKPJCJCOJDJDDOJCHGDNH(3);
+						kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN3.IOCNIPLJBDLIJLFLFBDGOPIGFEOBDHAABMDO(RSAEncryptionPadding.Pkcs1);
+						kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN3.EFCGDEOJHBNCNFBCFNLHBMONDEMAHEJAGOIE(GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.LGFICOJCEDNCDBGHPGKOJPBMAGHFKCMNGIEM(0x1E3CDDF0 ^ _003CModule_003E_007B25e48f6e_002Df4cb_002D4048_002D8b27_002Dc61c82e409b6_007D.m_6095ed59f511470f8858a81603566f5e.m_a7b8a60fc5114593b47ca7c53c0d6b74));
+						kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN3.DANJNOPMBFBMOLIANIFALJJKMEDBIMEFJGIA(GFBGAMFPLEDLAABJKOIPOFFMKLLKJJDPOJLM.LGFICOJCEDNCDBGHPGKOJPBMAGHFKCMNGIEM(0x44AF5B95 ^ _003CModule_003E_007B25e48f6e_002Df4cb_002D4048_002D8b27_002Dc61c82e409b6_007D.m_6095ed59f511470f8858a81603566f5e.m_0bb7c0363a8e4d8bb83c930f44c4895f));
+						array[2] = kKGMPNFGDIGNDKOAJNOFIBECCNBGJBPNBIGN3;
+						KLMPGJNFFMOJIPOLIHODOAHJMEBKOOKFINAN = array;
+						num3 = 4;
+						continue;
+					}
+					}
+					goto end_IL_000e;
+					continue;
+					end_IL_0012:
+					break;
+				}
+				continue;
+				end_IL_000e:
+				break;
+			}
+		}
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static bool DHDDMPMBFOFEOFJJDLELKJNIFNHJPJLKDAFM()
+	{
+		return true;
+	}
+
+	[MethodImpl(MethodImplOptions.NoInlining)]
+	internal static DMKOEBJEGFGGPHGOMLPIJFDBGJCPDODMMILF HMDPOEFDIBJKGAIIKODAJBEOOKPIKBLDDPLL()
+	{
+		return null;
+	}
+}
