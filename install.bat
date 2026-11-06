@@ -7,6 +7,10 @@ REM ============================================================
 REM  Double-click this file. No commands to type.
 REM  It will ask for admin rights (UAC -> click Yes).
 REM
+REM  You do NOT need to download RaiDrive.Mount.noads.v4.exe
+REM  separately. If it is missing, this script fetches it from
+REM  GitHub automatically.
+REM
 REM  NOTE: This file is intentionally ASCII-only.
 REM  cmd.exe parses .bat in the system ANSI codepage (GBK on
 REM  Chinese Windows), so non-ASCII comments break parsing.
@@ -15,6 +19,9 @@ REM ============================================================
 set "SCRIPT=%~dp0"
 set "TARGET=C:\Program Files\OpenBoxLab\RaiDrive Mount\RaiDrive.Mount.exe"
 set "EXPECTED=0acccd3ee5f914d1aaba87d8f6bc38e19374379f296a55505937ad06a1a259fa"
+
+set "EXENAME=RaiDrive.Mount.noads.v4.exe"
+set "DLURL=https://github.com/eeetechen/raidrive-no-ads/releases/download/v2026.10.0/RaiDrive.Mount.noads.v4.exe"
 
 REM ---------- auto elevate ----------
 net session >nul 2>&1
@@ -45,38 +52,75 @@ if not exist "%TARGET%" (
     exit /b 1
 )
 
-REM ---------- locate patched exe ----------
-set "PATCHED="
-for %%F in ("%SCRIPT%RaiDrive.Mount.noads.v4.exe" "%SCRIPT%bin\RaiDrive.Mount.noads.v4.exe" "%SCRIPT%..\bin\RaiDrive.Mount.noads.v4.exe") do (
-    if exist "%%~fF" set "PATCHED=%%~fF"
-)
-if "%PATCHED%"=="" (
-    echo  [ERROR] RaiDrive.Mount.noads.v4.exe not found.
-    echo.
-    echo  Put the .exe and this .bat in the SAME folder.
-    echo.
-    pause
-    exit /b 1
-)
-
 echo  Target : %TARGET%
-echo  Patch  : %PATCHED%
 echo.
 
-REM ---------- step 1: verify patch file ----------
-echo  [1/5] Verifying patch file...
-call :GetHash "%PATCHED%"
-if /i not "!HASH!"=="%EXPECTED%" (
-    echo.
-    echo  [ERROR] Patch file is corrupted or incomplete.
-    echo          Please download RaiDrive.Mount.noads.v4.exe again.
-    echo.
-    pause
-    exit /b 1
-)
-echo         OK
+REM ============================================================
+REM  Step 1: get the patched exe (local, or download)
+REM ============================================================
+echo  [1/5] Locating patch file...
 
-REM ---------- step 2: already installed? ----------
+set "PATCHED="
+if exist "%SCRIPT%%EXENAME%"        set "PATCHED=%SCRIPT%%EXENAME%"
+if not defined PATCHED if exist "%SCRIPT%bin\%EXENAME%"    set "PATCHED=%SCRIPT%bin\%EXENAME%"
+if not defined PATCHED if exist "%SCRIPT%..\bin\%EXENAME%" set "PATCHED=%SCRIPT%..\bin\%EXENAME%"
+
+set "NEED_DOWNLOAD=0"
+if not defined PATCHED (
+    echo         Not found locally.
+    set "NEED_DOWNLOAD=1"
+) else (
+    call :GetHash "!PATCHED!"
+    if /i "!HASH!"=="%EXPECTED%" (
+        echo         Found: !PATCHED!
+        echo         SHA256 OK.
+    ) else (
+        echo         Found but hash mismatch - will download a fresh copy.
+        set "NEED_DOWNLOAD=1"
+    )
+)
+
+if "!NEED_DOWNLOAD!"=="1" (
+    set "PATCHED=%SCRIPT%%EXENAME%"
+    echo.
+    echo         Downloading from GitHub...
+    echo         !DLURL!
+    echo.
+    call :Download "!DLURL!" "!PATCHED!"
+    if errorlevel 1 (
+        echo.
+        echo  [ERROR] Download failed.
+        echo.
+        echo  Possible reasons:
+        echo    - No internet connection
+        echo    - github.com is blocked or slow in your network
+        echo.
+        echo  Workaround: download the file manually in a browser
+        echo    %DLURL%
+        echo  and put it in the SAME folder as this .bat, then
+        echo  run this script again.
+        echo.
+        pause
+        exit /b 1
+    )
+    call :GetHash "!PATCHED!"
+    if /i not "!HASH!"=="%EXPECTED%" (
+        echo.
+        echo  [ERROR] Downloaded file failed verification.
+        echo          Expected: %EXPECTED%
+        echo          Got     : !HASH!
+        echo.
+        echo  The download may be incomplete or tampered with.
+        echo  Delete the file and try again.
+        echo.
+        pause
+        exit /b 1
+    )
+    echo         Downloaded and verified OK.
+)
+
+REM ---------- step 2: already patched? ----------
+echo.
 echo  [2/5] Checking current version...
 call :GetHash "%TARGET%"
 if /i "!HASH!"=="%EXPECTED%" (
@@ -111,7 +155,7 @@ echo         Saved to backup folder
 
 REM ---------- step 5: replace and re-verify ----------
 echo  [5/5] Replacing and verifying...
-copy /y "%PATCHED%" "%TARGET%" >nul
+copy /y "!PATCHED!" "%TARGET%" >nul
 if errorlevel 1 (
     echo.
     echo  [ERROR] Replace failed. RaiDrive may still be running.
@@ -144,10 +188,12 @@ echo.
 pause
 exit /b 0
 
-REM ---------- sub: SHA256 of a file ----------
+REM ============================================================
+REM  Sub: SHA256 of a file  ->  !HASH!
+REM ============================================================
 :GetHash
 set "HASH="
-for /f "skip=1 delims=" %%H in ('certutil -hashfile "%~1" SHA256') do (
+for /f "skip=1 delims=" %%H in ('certutil -hashfile "%~1" SHA256 2^>nul') do (
     if not defined HASH (
         set "L=%%H"
         set "L=!L: =!"
@@ -155,3 +201,38 @@ for /f "skip=1 delims=" %%H in ('certutil -hashfile "%~1" SHA256') do (
     )
 )
 exit /b
+
+REM ============================================================
+REM  Sub: Download %1 -> %2
+REM  Tries curl.exe first (built into Win10 1803+), then
+REM  PowerShell Invoke-WebRequest. Returns errorlevel 1 on failure.
+REM ============================================================
+:Download
+if exist "%~2" del /f /q "%~2" >nul 2>&1
+
+REM --- curl ---
+where curl >nul 2>&1
+if not errorlevel 1 (
+    curl -L --fail --silent --show-error --retry 3 --retry-delay 2 --connect-timeout 30 --max-time 900 -o "%~2" "%~1" 2>nul
+    call :SizeOK "%~2"
+    if not errorlevel 1 exit /b 0
+)
+
+REM --- PowerShell fallback ---
+if exist "%~2" del /f /q "%~2" >nul 2>&1
+powershell -NoProfile -ExecutionPolicy Bypass -Command "$ProgressPreference='SilentlyContinue'; try { Invoke-WebRequest -Uri '%~1' -OutFile '%~2' -UseBasicParsing -TimeoutSec 900 } catch { exit 1 }" >nul 2>&1
+call :SizeOK "%~2"
+if not errorlevel 1 exit /b 0
+
+if exist "%~2" del /f /q "%~2" >nul 2>&1
+exit /b 1
+
+REM ============================================================
+REM  Sub: is %1 a plausibly complete file? (>1000 bytes)
+REM  A truncated download is the most common failure, so a
+REM  small file is treated as "not downloaded".
+REM ============================================================
+:SizeOK
+if not exist "%~1" exit /b 1
+for %%A in ("%~1") do if %%~zA LSS 1000 exit /b 1
+exit /b 0
