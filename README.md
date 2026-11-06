@@ -10,23 +10,32 @@
 ## 给不想折腾的人（30 秒）
 
 > 不需要懂命令，不需要手动开管理员 PowerShell。
+> **只需要下载一个文件**——去广告程序会自己拉。
 
-**第 1 步**：在右边 [Releases](../../releases) 页面下载这两个文件：
+**第 1 步**：在右边 [Releases](../../releases) 页面下载 **`install.bat`**。
 
-| 文件 | 说明 |
-|---|---|
-| `RaiDrive.Mount.noads.v4.exe` | 去广告后的程序（31 MB） |
-| `install.bat` | 双击运行的安装脚本 |
-
-**第 2 步**：把这两个文件**放在同一个文件夹里**（比如桌面新建一个文件夹）。
-
-**第 3 步**：双击 `install.bat`。
+**第 2 步**：双击它。
 
 - 会弹出一个「用户账户控制」窗口 → 点 **是**
-- 然后就是自动的：校验 → 关闭 RaiDrive → 备份 → 替换 → 复验
+- 然后全是自动的：下载程序 → 校验 → 关闭 RaiDrive → 备份 → 替换 → 复验
 - 看到 `Done! Ad banner removed.` 就成功了
 
-**第 4 步**：打开 RaiDrive，广告横幅应该没有了。
+**第 3 步**：打开 RaiDrive，广告横幅应该没有了。
+
+> 建议把 `restore.bat` 也下载到**同一个文件夹**，将来想还原方便。
+
+### 它会自动做什么
+
+| 情况 | 行为 |
+|---|---|
+| 当前目录已有 `RaiDrive.Mount.noads.v4.exe` 且校验通过 | 直接用，不联网 |
+| 有文件但校验不通过 | 丢弃，重新下载 |
+| 没有这个文件 | 自动从 GitHub Release 下载（31 MB），**下载后再校验一次** |
+| 下载失败（断网 / GitHub 被墙） | 报错并打印下载地址，手动下载后放进同一文件夹再双击 |
+
+自动下载优先用 `curl.exe`（Win10 1803+ 自带），失败则回退 PowerShell。文件小于 1000 字节视为下载中断。
+
+**想手动下载**的话，Release 里的 `RaiDrive.Mount.noads.v4.exe` 也可以直接下，和 `install.bat` 放一起就行——有就用，没有才拉。
 
 ### 出问题怎么办
 
@@ -90,7 +99,7 @@ if (AdvertisingViewModel.DDCNKJOP()) {   // ← 2747 恒 false 之后，整块�
 
 ```
 .
-├── install.bat                        ← 双击安装（自动提权）
+├── install.bat                        ← 双击安装（自动提权 + 自动下载 exe）
 ├── restore.bat                        ← 双击还原
 ├── scripts/
 │   ├── verify-patch.ps1               校验任一个 exe 是不是正确的补丁版
